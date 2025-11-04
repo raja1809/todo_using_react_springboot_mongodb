@@ -176,13 +176,7 @@ Response:
 }
 ```
 
-## 🎨 Screenshots
 
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x600?text=Add+Your+Screenshot+Here)
 
 ## 🔧 Configuration
 
@@ -259,44 +253,6 @@ npm run build
 - Deploying full-stack applications to cloud platforms
 - Git version control and collaboration
 
-## 🐛 Known Issues
-
-- Render free tier has cold starts (first request takes 30-60 seconds)
-- No user authentication (planned for future)
-- No data validation on frontend (planned for future)
-
-## 🔮 Future Enhancements
-
-- [ ] User authentication with JWT
-- [ ] Due dates for todos
-- [ ] Categories and tags
-- [ ] Search functionality
-- [ ] Dark mode
-- [ ] Drag and drop to reorder
-- [ ] Export/Import todos
-- [ ] Email reminders
-- [ ] Progressive Web App (PWA)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
 ## 🙏 Acknowledgments
 
 - Spring Boot Documentation
@@ -305,13 +261,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Vercel & Render for free hosting
 - Stack Overflow community
 
-## 📞 Contact
-
-For any queries or suggestions, feel free to reach out:
-- Email: your.email@example.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/todo_using_react_springboot_mongodb/issues)
-
----
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
